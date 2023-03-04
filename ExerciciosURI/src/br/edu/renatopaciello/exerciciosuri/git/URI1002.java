@@ -10,7 +10,9 @@ public class URI1002 {
 		
 		int A, B, Soma;
 		
+		System.out.print("Insira um valor: ");
 		A = teclado.nextInt();
+		System.out.print("Insira um valor: ");
 		B = teclado.nextInt();
 		
 		Soma = A + B;
